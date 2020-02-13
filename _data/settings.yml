@@ -1,6 +1,6 @@
 audit_header: false
-title: Santa Monica Real Estate Video Blog with Megan Silva
-description: Our mission at Keller Williams Santa Monica is to be your best resource for Santa Monica real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Keller Williams Santa Monica, your professional Santa Monica Real Estate Agents.
+title: Westside Real Estate Video Blog with Megan Silva
+description: Our mission at Keller Williams is to be your best resource for Santa Monica real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Keller Williams Santa Monica, your professional Santa Monica Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -18,7 +18,7 @@ client:
     Megan Silva is a Real Estate Agent and Luxury Estate Specialist at Keller Williams Santa Monica. Her pathway to luxury property sales originated from her tenure in the private wealth management industry, where she served exclusively Ultra High Net Worth (UNHW) clientele at Morgan Stanley in Beverly Hills and was awarded various accolades as a top performer. Prior to joining Morgan Stanley, Megan worked in the entertainment industry at a top-tier talent agency, William Morris Endeavor, also in Beverly Hills.
   brand:
   brokerage: Keller Williams Santa Monica
-  market: Santa Monica
+  market: Westside
   address: 2701 Ocean Park Blvd, Suite 140, Santa Monica, CA 90405
   phone: 310-614-6513
   phone_type:
@@ -35,15 +35,15 @@ CTAs:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your Santa Monica Home Worth?"
+    CTA_title: "What’s Your Westside Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
     CTA_url: /homevalue/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a Santa Monica Home?"
-    CTA_text2: "Search the entire MLS for your Santa Monica home."
+    CTA_title2: "Looking for a Westside Home?"
+    CTA_text2: "Search the entire MLS for your Westside home."
     CTA_link_text2: "Search the MLS"
     CTA_url2: /homesearch/
 
