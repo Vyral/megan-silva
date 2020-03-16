@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/silva-youtube.jpg
 youtube_code: FDR9PskGuRI
 ---
 
-{% include youtube.html %}I’m sharing three tasks to complete to prepare your home for sale.
+{% include youtube.html %}<center>I’m sharing three tasks to complete to prepare your home for sale.</center>
 
 Welcome to my new blog, thank you for visiting\! My first topic is about the three things you need to do to prepare your home for sale. These three simple tasks can make all the difference when selling:
 
