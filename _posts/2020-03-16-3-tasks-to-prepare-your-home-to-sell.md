@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tasks to Prepare Your Home to Sell
-date:
+date: 2020-03-16 19:08:56
 tags:
 excerpt: I’m sharing three tasks to complete to prepare your home for sale.
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/silva-youtube.jpg
 youtube_code: FDR9PskGuRI
 ---
 
-{% include youtube.html %}<center>I’m sharing three tasks to complete to prepare your home for sale.</center>
+{% include youtube.html %}
+
+<center>I&rsquo;m sharing three tasks to complete to prepare your home for sale.</center>
+
+&nbsp;
 
 Welcome to my new blog, thank you for visiting\! My first topic is about the three things you need to do to prepare your home for sale. These three simple tasks can make all the difference when selling:
 
