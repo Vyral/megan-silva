@@ -17,6 +17,8 @@ youtube_code: 9ot32C-0P_w
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 We’re still in a seller’s market, and it’s leaving a lot of buyers frustrated. With multiple-offer situations being so common, how do you win a competitive home? Today I’ll share the three C’s that can help you win a multiple-offer situation.&nbsp;
 
 Before we go any further, I should mention another ‘C’ that can help you out: Calling me\! I know all the tips I’m about to share and more, so **if you hire me as your agent, I can use every trick in the book to help you win.&nbsp;**
