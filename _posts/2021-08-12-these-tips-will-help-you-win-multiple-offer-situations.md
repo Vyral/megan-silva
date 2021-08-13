@@ -5,7 +5,7 @@ date: 2021-08-12 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
-excerpt:
+excerpt: Here are three C’s that will help you win in a multiple-offer situation.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/These+Tips+Will+Help+You+Win+Multiple-Offer+Situations.mp4
 pullquote: In this market, you have to get creative with your offers.
