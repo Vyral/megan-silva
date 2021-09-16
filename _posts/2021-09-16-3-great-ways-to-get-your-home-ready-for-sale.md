@@ -17,7 +17,7 @@ youtube_code: N55Xqk0S_uM
 ---
 {% include youtube.html %}
 
-**center-this-text** \{*Here are my top three tips for home sellers in today’s market.\}*text-align: center;
+*Here are my top three tips for home sellers in today’s market.*
 
 Here are three things you should be doing when getting your home ready for sale:
 
