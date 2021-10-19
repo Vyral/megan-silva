@@ -26,6 +26,4 @@ These are serious buyers that are looking to make a purchase now. There are a lo
 
 **There’s a sense of urgency that isn’t there the rest of the year.**
 
-Another reason why I love the fall market is that the negotiations are easier. I don’t know if it’s the holiday spirit, but people tend to be in a better mood, and negotiations are more flexible.&nbsp;
-
-If you’ve been considering selling but want to wait until spring, you might not need to. Reach out to me today; let’s talk about your situation and see if we can take advantage of this fall market. I look forward to hearing from you soon.
+Another reason why I love the fall market is that the negotiations are easier. I don’t know if it’s the holiday spirit, but people tend to be in a better mood, and negotiations are more flexible. If you’ve been considering selling but want to wait until spring, you might not need to. Reach out to me today; let’s talk about your situation and see if we can take advantage of this fall market. I look forward to hearing from you soon.
