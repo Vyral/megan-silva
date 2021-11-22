@@ -18,8 +18,6 @@ youtube_code: BQPau4Wok9Q
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 Recently, a lot of clients have asked me, “Should I sell, or should I renovate?” It’s a complicated question, so today I want to go over some questions you can ask yourself to determine which option is right for you:&nbsp;
 
 **1\. Do you love your location?** How is your relationship with the neighbors? Does your area fit your needs? Your land is one of the few things you can’t change, so if you don’t like where you live, it may be time to leave.&nbsp;
