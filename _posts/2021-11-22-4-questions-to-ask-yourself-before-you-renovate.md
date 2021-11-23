@@ -26,7 +26,7 @@ Recently, a lot of clients have asked me, “Should I sell, or should I renovate
 
 {% include pullquote.html %}
 
-**3\. Construction prices are increasing; can you afford to renovate?** Within the last two years, new construction costs have increased quite a bit. With high inflation, the cost of a project could also increase as you work on it. Renovation comes with a lot of unknowns, so make sure you have a fund set aside to handle anything that comes up.&nbsp;
+**3\. Construction prices are increasing; can you afford to renovate?** Within the last two years, new construction costs have increased quite a bit. With high inflation, the cost of a project could also increase as you work on it. Renovations come with a lot of unknowns, so make sure you have funds set aside to handle anything that comes up.&nbsp;
 
 **4\. How much free time do you have?** Renovation takes time. You’ll have people working for you, but you are your own best project manager. You have to be willing to devote time to renovations. It’s sort of like a wedding; you might have a wedding planner, but you still need to be involved in the process.&nbsp;
 
