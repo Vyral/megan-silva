@@ -1,6 +1,12 @@
 audit_header: false
 title: Westside Real Estate Video Blog with Megan Silva
-description: Our mission at Keller Williams is to be your best resource for Santa Monica real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Keller Williams Santa Monica, your professional Santa Monica Real Estate Agents.
+description: >-
+  Our mission at Keller Williams is to be your best resource for Santa Monica
+  real estate advice. Whether you are a buyer, seller, or investor, our team of
+  professionals can answer any questions you might have about real estate. If
+  you are looking to buy or sell a home, you can get all the information and the
+  latest updates, tips, and tricks from The Keller Williams Santa Monica, your
+  professional Santa Monica Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -9,15 +15,33 @@ show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
     url:
-
 client:
   name: Megan Silva
   title:
   license_number:
-  about_markdown: |
-    Megan has built her business on a reputation of transparency, accountability, quality and integrity. Megan sets high expectations for herself, striving to grow her reputation through hard work, client advocacy and innovative thinking. Whether her clients are the buyer or seller, she will never leave their corner. Her top priority is to provide all of her clients with unparalleled service and representation with all of their real estate needs. Providing the markets’ most accurate and updated information is pivotal in Megan’s personalized marketing plans for clients. Her attention to detail, and ability to negotiate and close even the most complex transactions sets her apart and always exceeds her client’s expectations.
+  about_markdown: >
+    Megan has built her business on a reputation of transparency,
+    accountability, quality and integrity. Megan sets high expectations for
+    herself, striving to grow her reputation through hard work, client advocacy
+    and innovative thinking. Whether her clients are the buyer or seller, she
+    will never leave their corner. Her top priority is to provide all of her
+    clients with unparalleled service and representation with all of their real
+    estate needs. Providing the markets’ most accurate and updated information
+    is pivotal in Megan’s personalized marketing plans for clients. Her
+    attention to detail, and ability to negotiate and close even the most
+    complex transactions sets her apart and always exceeds her client’s
+    expectations.
 
-    Megan’s pathway to luxury property sales originated from her tenure in the private wealth management industry, where she served exclusively Ultra High Net Worth (UNHW) clientele at Morgan Stanley in Beverly Hills and was awarded various accolades as a top performer. Prior to joining Morgan Stanley, Megan worked in the entertainment industry at a top-tier talent agency, William Morris Endeavor, also in Beverly Hills. Megan received her undergraduate degree from the University of Southern California. Originally from West Des Moines, Iowa, Megan resides in Venice with her husband and two dogs.
+
+    Megan’s pathway to luxury property sales originated from her tenure in the
+    private wealth management industry, where she served exclusively Ultra High
+    Net Worth (UNHW) clientele at Morgan Stanley in Beverly Hills and was
+    awarded various accolades as a top performer. Prior to joining Morgan
+    Stanley, Megan worked in the entertainment industry at a top-tier talent
+    agency, William Morris Endeavor, also in Beverly Hills. Megan received her
+    undergraduate degree from the University of Southern California. Originally
+    from West Des Moines, Iowa, Megan resides in Venice with her husband and two
+    dogs.
   brand:
   brokerage: Keller Williams Santa Monica
   market: Westside
@@ -28,27 +52,25 @@ client:
   phone2_type:
   email: Megan@megansilva.com
   url: http://megansilva.com
-
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
   second_CTA_URL: https://www.megansilva.com/listings-search/#/2033763787
-
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your Westside Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
+    CTA_title: What’s Your Westside Home Worth?
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    CTA_link_text: Free Home Value Report
     CTA_url: /homevalue/
-
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a Westside Home?"
-    CTA_text2: "Search the entire MLS for your Westside home."
-    CTA_link_text2: "Search the MLS"
+    CTA_title2: Looking for a Westside Home?
+    CTA_text2: Search the entire MLS for your Westside home.
+    CTA_link_text2: Search the MLS
     CTA_url2: https://www.megansilva.com/listings-search/#/2033763787
-
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -61,7 +83,6 @@ lender:
   phone:
   email:
   url:
-
 socials:
   review_sm_icons: true
   facebook_url: https://www.facebook.com/Megan-Silva-Real-Estate-Advisory-104152427829642/
@@ -74,40 +95,46 @@ socials:
   trulia_url:
   yelp_url:
   podcast_url:
-
 podcast:
-  title: 'Santa Monica Real Estate Podcast with Megan Silva'
+  title: Santa Monica Real Estate Podcast with Megan Silva
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Santa Monica Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams Santa Monica - your professional Santa Monica Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Santa Monica, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Megan Silva'
-
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the Santa
+    Monica Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from Keller Williams Santa Monica - your
+    professional Santa Monica Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in Santa Monica,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
+  author: Megan Silva
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /img/logo.png
+  hero_logo_path: /uploads/megan-silva-black-logo.png
   logo_width_number: 40
-  hero_text: 
-  hero_background_hex: '#999'
-  hero_image_path: /img/background.jpg
+  hero_text:
+  hero_background_hex: '#999999'
+  hero_image_path: /uploads/20200128-megan-silva-portrait-mg-7753.jpg
   post_cover: /img/cover.jpg
   post_cta_image: /img/home-value.jpg
   post_cta_image2: /img/home-search.jpg
-
 site_colors:
   brand_color: '#86c3c1'
   theme_color: '#757979'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
   shadow_color: white
-
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
@@ -116,5 +143,5 @@ buttons:
   button_background_color: transparent
   button_text_color: '#000000'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
