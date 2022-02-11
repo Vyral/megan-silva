@@ -120,7 +120,7 @@ images:
   logo_width_number: 40
   hero_text:
   hero_background_hex: '#999999'
-  hero_image_path: /uploads/20200128-megan-silva-portrait-mg-7753.jpg
+  hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
   post_cta_image: /img/home-value.jpg
   post_cta_image2: /img/home-search.jpg
