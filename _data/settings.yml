@@ -70,7 +70,7 @@ second_sidebar_CTA:
     CTA_title2: Looking for a Westside Home?
     CTA_text2: Search the entire MLS for your Westside home.
     CTA_link_text2: Search the MLS
-    CTA_url2: https://www.megansilva.com/listings-search/#/2033763787
+    CTA_url2: https://www.megansilva.com/search
 lender:
   show_section: false
   header_text: Preferred Lender
