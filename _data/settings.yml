@@ -54,9 +54,9 @@ client:
   url: http://megansilva.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://megansilvahomeevaluation.paperform.co/
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.megansilva.com/listings-search/#/2033763787
+  second_CTA_URL: https://www.megansilva.com/search
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your Westside Home Worth?
