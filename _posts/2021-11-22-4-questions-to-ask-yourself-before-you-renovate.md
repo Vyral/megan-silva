@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/megan-silva-ss-yt.jpg
+youtube_alternate_image: /uploads/1.jpg
 youtube_code: BQPau4Wok9Q
 ---
 {% include youtube.html %}
