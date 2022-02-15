@@ -12,7 +12,7 @@ pullquote: You want the home to look like a hotel.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /3-quick-tips-for-todays-home-sellers-yt.jpg
+youtube_alternate_image: /uploads/3.jpg
 youtube_code: N55Xqk0S_uM
 ---
 {% include youtube.html %}
