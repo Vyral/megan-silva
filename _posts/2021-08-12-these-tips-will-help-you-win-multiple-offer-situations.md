@@ -12,7 +12,7 @@ pullquote: In this market, you have to get creative with your offers.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /the-three-cs-to-help-buyers-win-yt.jpg
+youtube_alternate_image: /uploads/2.jpg
 youtube_code: ZD5HskRQUhQ
 ---
 {% include youtube.html %}
@@ -21,7 +21,7 @@ youtube_code: ZD5HskRQUhQ
 
 We’re still in a seller’s market, and it’s leaving a lot of buyers frustrated. With multiple-offer situations being so common, how do you get a competitive home? Today I’ll share the three C’s that can help you win a multiple-offer situation.
 
-Before we go any further, I should mention another ‘C’ that can help you out: Calling me\! I know all the tips I’m about to share and more, so **if you hire me as your agent, I can use every trick in the book to help you win. **
+Before we go any further, I should mention another ‘C’ that can help you out: Calling me\! I know all the tips I’m about to share and more, so \*\*if you hire me as your agent, I can use every trick in the book to help you win. \*\*
 
 The first C I want to share with you is **confidence.** As a buyer, you have to believe your offer will win. I’ve seen a few buyers who wanted to buy a home, but they sat out of the market for years because they were intimidated. In that time, they missed out on potentially hundreds of thousands of dollars in appreciation. Therefore, it’s important to remember that searching for a home should be fun. You’re working with a professional, and with time and patience, you will find the home of your dreams.
 
