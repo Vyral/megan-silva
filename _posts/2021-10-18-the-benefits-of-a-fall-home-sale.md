@@ -11,7 +11,7 @@ pullquote: It might not be in your best interest to wait until spring.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/megansilvass-yt.jpg
+youtube_alternate_image: /uploads/4.jpg
 youtube_code: p7kgE57Gx_c
 ---
 {% include youtube.html %}
