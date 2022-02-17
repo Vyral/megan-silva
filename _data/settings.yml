@@ -120,7 +120,7 @@ images:
   logo_width_number: 30
   hero_text:
   hero_background_hex: '#999999'
-  hero_image_path: /uploads/black-and-white.png
+  hero_image_path: /img/background.png
   post_cover: /img/cover.jpg
   post_cta_image: /img/home-value.jpg
   post_cta_image2: /img/home-search.jpg
